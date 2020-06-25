@@ -1,0 +1,17 @@
+python-audio-midi
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jav2074/python-audio-midi.git
+git push -u origin master
+
+
+https://mido.readthedocs.io/en/latest/
+
+pip install mido
+
+
+https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
+
+http://www.music.mcgill.ca/~ich/classes/mumt306/StandardMIDIfileformat.html
