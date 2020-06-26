@@ -6,8 +6,8 @@ import random
 freq_1 = 20000
 freq_2 = 30000
 freq_range = freq_2 - freq_1
-durat_1 = 500
-durat_2 = 1000
+durat_1 = 750
+durat_2 = 1500
 durat_range = durat_1 - durat_2
 
 print("Auyenta Mosquitos")
